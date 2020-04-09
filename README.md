@@ -1,1 +1,7 @@
-# MOVED: This repository has been incorporated into the OpenCORD project by ONF.  Please see https://gerrit.opencord.org/gitweb?p=voltctl.git;a=tree for the latest source code.
+![We've Moved](./resources/weve_moved.png "We've Moved")
+
+The `voltctl` project has moved to be part of the Open Networking Foundation's (ONF)
+VOLTHA project that is managed through the ONF's `gerrit` GIT server at
+`https://gerrit.opencord.org/#/admin/projects/voltctl`. The project will continue
+to be available on `github.com` as the `gerrit` repository is mirrored to
+`https://github.com/opencord/voltctl`.
